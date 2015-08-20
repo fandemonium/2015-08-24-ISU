@@ -38,6 +38,7 @@ Identify who is involved in the data of this sequencing experiment?
 
 Think about the steps of this experiment and which ones generate data, what type, and who is likely to contribute to it?  Data comes from not only bioinformatics but also wet-lab techniques.
 
+---
 ## Data Type 1, DNA extraction and the value of data standards
 
 Imagine that you have come onto this project last week and luckily the data is ready but you have to work with a team that has already influenced your data organization.  A past graduate student in your lab had extracted DNA and sent it o the sequencing Facility.  Her name was Diane Rockstar, and as she is a rockstar, she had labelled her samples with her initials and a number (in order of how she extracted the DNA).
@@ -48,7 +49,9 @@ Here's what her samples looked like when she submitted them to the DNA facility.
 
 Exercise:
 
+~~~
 Take a couple minutes to look at this data, can you identify some problems with this datasheet?
+~~~
 
 ### A note on file formats
 
